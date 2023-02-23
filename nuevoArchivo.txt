@@ -1,3 +1,15 @@
 modifico este archivo en el pc de manera local y encuentro
 una manera de que se sincronice con el repositorio
 en la plataforma github.com
+
+con el comando 
+
+git remote add origin ____ (direcciòn del repositorio)
+
+sincronizo con la plataforma
+
+con 
+
+git push -u origin master 
+
+actualizo las modificacines realizadas en local
