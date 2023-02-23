@@ -13,3 +13,7 @@ con
 git push -u origin master 
 
 actualizo las modificacines realizadas en local
+
+este es una versión actualizada del nuevoArchivo pero 
+simulando una descarga desde el hosting y reemplazando en
+la carpeta original. 
