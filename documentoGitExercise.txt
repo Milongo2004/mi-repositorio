@@ -1,0 +1,4 @@
+Este documento fue creado para hacer pruebas de
+actualización en el repositorio creado para el curso básico de 
+github
+
