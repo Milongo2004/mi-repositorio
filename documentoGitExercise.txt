@@ -2,3 +2,12 @@ Este documento fue creado para hacer pruebas de
 actualización en el repositorio creado para el curso básico de 
 github
 
+A partir de aquí es una modificación realizada en el 
+archivo en el escritorio, 
+luego lo tomo de acá y lo pego en la carpeta, 
+reemplazando el anterior. 
+
+realizo el commit con git push -u origin master
+luego de hacer git add . 
+ y de hacer git commit -m "mensaje"
+
