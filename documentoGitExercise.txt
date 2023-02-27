@@ -11,3 +11,5 @@ realizo el commit con git push -u origin master
 luego de hacer git add . 
  y de hacer git commit -m "mensaje"
 
+este es un parrafo que escribí al abrir el archivo desde el programa de 
+escritorio de github. 
