@@ -3,3 +3,4 @@ agrego una línea desde Visual Studio Code, el cual fue abierto desde la interfa
 listado de acciones
 1. hago un cambio
 2. hago el commit
+3. sincronizo
