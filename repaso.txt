@@ -1,1 +1,2 @@
 este archivo fue creado para repasar los comandos de git
+agrego una línea desde Visual Studio Code, el cual fue abierto desde la interfaz de escritorio de Github
