@@ -4,3 +4,5 @@ listado de acciones
 1. hago un cambio
 2. hago el commit
 3. sincronizo
+
+repaso nuevamente hacer un commit desde el terminal
