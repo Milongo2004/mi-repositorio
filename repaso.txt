@@ -6,3 +6,5 @@ listado de acciones
 3. sincronizo
 
 repaso nuevamente hacer un commit desde el terminal
+
+ahora edito este archivo desde la plataforma online y veo cómo se sincroniza con el programa de escritorio
