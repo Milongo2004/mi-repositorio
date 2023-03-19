@@ -11,5 +11,5 @@ ahora edito este archivo desde la plataforma online y veo cómo se sincroniza co
 
 gestión de conflictos
 
-Mi cambio realizado en local
+Mi cambio realizado en local // este cambio lo he realizado en local en conflicto con el cambio que realicé acá. desde el aplicativo de escritorio pude obserar ambos cambios y tomar la desición sobre cuál de los dos escoger. 
 
