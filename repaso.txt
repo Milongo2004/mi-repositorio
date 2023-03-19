@@ -8,3 +8,8 @@ listado de acciones
 repaso nuevamente hacer un commit desde el terminal
 
 ahora edito este archivo desde la plataforma online y veo cómo se sincroniza con el programa de escritorio
+
+gestión de conflictos
+
+Mi cambio realizado en local
+
